@@ -1,8 +1,8 @@
 [
   {
     "name": "rtl",
-    "url": "http://l.tomb007.repl.co",
-    "icon": "https://icons.duckduckgo.com/ip3/l.tomb007.repl.co.ico",
+    "url": "$SITE_RTL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rtl",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 351,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
