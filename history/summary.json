@@ -4,17 +4,19 @@
     "url": "$SITE_RTL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rtl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 348,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
-    "dailyMinutesDown": {}
+    "time": 2973,
+    "timeDay": 5531,
+    "timeWeek": 2973,
+    "timeMonth": 2973,
+    "timeYear": 2973,
+    "dailyMinutesDown": {
+      "2023-06-21": 0
+    }
   }
 ]
