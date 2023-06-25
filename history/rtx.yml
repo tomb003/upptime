@@ -1,7 +1,7 @@
 url: $SITE_RTX
-status: up
-code: 200
-responseTime: 434
-lastUpdated: 2023-06-24T23:15:37.142Z
+status: down
+code: 500
+responseTime: 801
+lastUpdated: 2023-06-25T04:34:31.283Z
 startTime: Sat Jun 24 2023 01:01:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
