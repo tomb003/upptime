@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "r3x",
     "status": "down",
-    "uptime": "95.03%",
-    "uptimeDay": "88.87%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "95.03%",
+    "uptime": "95.02%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "95.02%",
     "time": 953,
     "timeDay": 1228,
     "timeWeek": 953,
     "timeMonth": 953,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2023-06-26": 160
+      "2023-06-26": 161
     }
   },
   {
