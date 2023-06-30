@@ -13,6 +13,10 @@ sites:
     url: $SITE_RCX
   - name: ack
     url: $SITE_ACK
+  - name: rtu
+    url: $SITE_RTU
+  - name: ruk
+    url: $SITE_RUK
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
