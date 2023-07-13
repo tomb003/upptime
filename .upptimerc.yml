@@ -11,8 +11,6 @@ sites:
     url: $SITE_R3X
   - name: rcx
     url: $SITE_RCX
-  - name: ack
-    url: $SITE_ACK
   - name: rtu
     url: $SITE_RTU
   - name: ruk
