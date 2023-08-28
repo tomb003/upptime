@@ -1,7 +1,7 @@
 url: $SITE_PUK
-status: down
-code: 525
-responseTime: 711
-lastUpdated: 2023-08-28T22:58:32.675Z
+status: up
+code: 200
+responseTime: 1358
+lastUpdated: 2023-08-28T23:14:32.036Z
 startTime: 2023-07-04T13:43:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
