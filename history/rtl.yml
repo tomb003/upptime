@@ -1,7 +1,7 @@
 url: $SITE_RTL
-status: up
-code: 200
-responseTime: 7270
-lastUpdated: 2023-09-07T09:06:53.836Z
+status: down
+code: 502
+responseTime: 348
+lastUpdated: 2023-09-07T10:53:04.839Z
 startTime: 2023-06-19T19:18:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
