@@ -1,7 +1,7 @@
 url: $SITE_R3X
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2023-09-08T06:39:33.157Z
+status: up
+code: 200
+responseTime: 3100
+lastUpdated: 2023-09-08T07:41:18.683Z
 startTime: 2023-06-24T01:22:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
