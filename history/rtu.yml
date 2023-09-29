@@ -1,7 +1,7 @@
 url: $SITE_RTU
-status: down
-code: 502
-responseTime: 299
-lastUpdated: 2023-09-29T08:59:56.603Z
+status: up
+code: 200
+responseTime: 1555
+lastUpdated: 2023-09-29T09:18:29.931Z
 startTime: 2023-06-30T14:57:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
