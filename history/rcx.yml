@@ -1,7 +1,7 @@
 url: $SITE_RCX
-status: down
-code: 403
-responseTime: 1130
-lastUpdated: 2023-10-13T12:33:01.365Z
+status: up
+code: 200
+responseTime: 1742
+lastUpdated: 2023-10-13T14:50:06.782Z
 startTime: 2023-06-24T01:30:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
