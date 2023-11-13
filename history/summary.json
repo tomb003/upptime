@@ -158,17 +158,17 @@
     "url": "$SITE_R3X",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "r3x",
-    "status": "up",
-    "uptime": "90.59%",
-    "uptimeDay": "93.27%",
+    "status": "down",
+    "uptime": "90.63%",
+    "uptimeDay": "93.26%",
     "uptimeWeek": "94.10%",
     "uptimeMonth": "88.63%",
-    "uptimeYear": "90.59%",
-    "time": 1863,
-    "timeDay": 1413,
-    "timeWeek": 1921,
-    "timeMonth": 1298,
-    "timeYear": 1863,
+    "uptimeYear": "90.63%",
+    "time": 1860,
+    "timeDay": 1280,
+    "timeWeek": 1885,
+    "timeMonth": 1293,
+    "timeYear": 1860,
     "dailyMinutesDown": {
       "2023-11-13": 97,
       "2023-11-10": 82,
@@ -246,7 +246,7 @@
       "2023-06-30": 101,
       "2023-06-29": 76,
       "2023-06-28": 201,
-      "2023-06-26": 979
+      "2023-06-26": 911
     }
   },
   {
@@ -256,9 +256,9 @@
     "slug": "rcx",
     "status": "up",
     "uptime": "91.58%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "93.05%",
     "uptimeYear": "91.58%",
     "time": 1967,
     "timeDay": 3422,
@@ -266,7 +266,6 @@
     "timeMonth": 1271,
     "timeYear": 1967,
     "dailyMinutesDown": {
-      "2023-11-13": 10,
       "2023-11-11": 163,
       "2023-11-10": 91,
       "2023-11-09": 293,
@@ -342,7 +341,8 @@
       "2023-07-04": 103,
       "2023-06-30": 167,
       "2023-06-28": 103,
-      "2023-06-26": 134
+      "2023-06-26": 134,
+      "2023-06-25": 16
     }
   },
   {
@@ -358,7 +358,7 @@
     "uptimeYear": "98.80%",
     "time": 2682,
     "timeDay": 1170,
-    "timeWeek": 3449,
+    "timeWeek": 3552,
     "timeMonth": 3010,
     "timeYear": 2682,
     "dailyMinutesDown": {
