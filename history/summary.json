@@ -256,17 +256,17 @@
     "url": "$SITE_RCX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rcx",
-    "status": "up",
-    "uptime": "91.56%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "89.28%",
+    "status": "down",
+    "uptime": "91.60%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "89.27%",
     "uptimeMonth": "92.81%",
-    "uptimeYear": "91.56%",
-    "time": 2037,
-    "timeDay": 6627,
-    "timeWeek": 2612,
-    "timeMonth": 1692,
-    "timeYear": 2037,
+    "uptimeYear": "91.60%",
+    "time": 2034,
+    "timeDay": 5677,
+    "timeWeek": 2558,
+    "timeMonth": 1684,
+    "timeYear": 2034,
     "dailyMinutesDown": {
       "2023-11-15": 26,
       "2023-11-14": 507,
@@ -343,7 +343,7 @@
       "2023-07-06": 22,
       "2023-07-05": 97,
       "2023-07-04": 103,
-      "2023-06-30": 167
+      "2023-06-30": 77
     }
   },
   {
