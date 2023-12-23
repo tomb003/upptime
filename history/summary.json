@@ -172,18 +172,19 @@
     "url": "$SITE_R3X",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "r3x",
-    "status": "up",
-    "uptime": "92.16%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.17%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "92.78%",
     "uptimeMonth": "94.48%",
-    "uptimeYear": "92.16%",
-    "time": 1827,
-    "timeDay": 881,
-    "timeWeek": 1028,
-    "timeMonth": 1590,
-    "timeYear": 1827,
+    "uptimeYear": "92.17%",
+    "time": 1825,
+    "timeDay": 919,
+    "timeWeek": 1023,
+    "timeMonth": 1579,
+    "timeYear": 1825,
     "dailyMinutesDown": {
+      "2023-12-23": 0,
       "2023-12-18": 252,
       "2023-12-17": 475,
       "2023-12-15": 717,
@@ -266,7 +267,7 @@
       "2023-07-25": 610,
       "2023-07-24": 20,
       "2023-07-23": 169,
-      "2023-07-19": 39
+      "2023-07-19": 18
     }
   },
   {
