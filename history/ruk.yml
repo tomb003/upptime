@@ -1,7 +1,7 @@
 url: $SITE_RUK
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2024-01-22T23:15:12.408Z
+status: down
+code: 521
+responseTime: 848
+lastUpdated: 2024-01-23T07:10:47.867Z
 startTime: 2023-06-30T14:58:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
